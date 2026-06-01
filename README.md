@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen B</h1>
-<h3 align="center">Web Developer | MERN Stack | Java Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;UI%2FUX+Designer" />
