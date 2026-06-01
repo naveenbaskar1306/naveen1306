@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Naveen+B+%F0%9F%91%8B;MERN+Stack+Developer;Java+%7C+Python+%7C+React+JS;Building+Real-World+Web+Apps)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=naveenbaskar27&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/naveenbaskar27)
+[![Profile Views](https://komarev.com/ghpvc/?username=naveenbaskar1306&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/naveenbaskar1306)
 
 </div>
 
@@ -69,11 +69,11 @@ const naveen = {
 
 <div align="center">
 
-<a href="https://github.com/naveenbaskar27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naveenbaskar27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/naveenbaskar1306">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naveenbaskar1306&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/naveenbaskar27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenbaskar27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/naveenbaskar1306">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenbaskar1306&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -84,7 +84,7 @@ const naveen = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naveenbaskar27&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=naveenbaskar1306&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -94,7 +94,7 @@ const naveen = {
 
 <div align="center">
 
-[![Naveen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenbaskar27&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/naveenbaskar27)
+[![Naveen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveenbaskar1306&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/naveenbaskar1306)
 
 </div>
 
@@ -104,7 +104,7 @@ const naveen = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=naveenbaskar27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/naveenbaskar27)
+[![trophy](https://github-profile-trophy.vercel.app/?username=naveenbaskar1306&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/naveenbaskar1306)
 
 </div>
 
@@ -142,9 +142,9 @@ const naveen = {
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [🌐 Hyperlocal Service App](https://github.com/naveenbaskar27) | MERN Stack | Location-based service booking · Provider onboarding · Secure JWT auth · Booking management |
-| [🛒 E-Commerce Website](https://github.com/naveenbaskar27) | MERN Stack | Full-stack platform · Product listings · JWT login · Cart system · REST APIs |
-| [📦 Live Shipping Dashboards](https://github.com/naveenbaskar27) | Java · SQL · UI | Logistics dashboards (GIVIEN & MBK) · Module enhancements · UI updates |
+| [🌐 Hyperlocal Service App](https://github.com/naveenbaskar1306) | MERN Stack | Location-based service booking · Provider onboarding · Secure JWT auth · Booking management |
+| [🛒 E-Commerce Website](https://github.com/naveenbaskar1306) | MERN Stack | Full-stack platform · Product listings · JWT login · Cart system · REST APIs |
+| [📦 Live Shipping Dashboards](https://github.com/naveenbaskar1306) | Java · SQL · UI | Logistics dashboards (GIVIEN & MBK) · Module enhancements · UI updates |
 
 </div>
 
